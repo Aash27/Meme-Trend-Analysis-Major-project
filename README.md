@@ -23,10 +23,10 @@ python main.py
 
 4. **Interpret Results**:Explore the generated insights and predictive scores to inform marketing decisions.
 
-## Contributors:
+## Team:
 1. Tanmay Arsania
 2. Aashlesha Rajput
-
+3. Rishabh Nahar
 
 
 
